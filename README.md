@@ -9,7 +9,7 @@ This Python application provides functionalities to control system operations li
 - **Shutdown**: Turn off the system.
 - **Restart**: Restart the system.
 - **Schedule Restart**: Schedule a system restart after a specified time.
-- **Logout**: Log out the current user.
+- **Logout**: Log out the current user operation.
 
 ## Prerequisites
 
